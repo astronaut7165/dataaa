@@ -32,4 +32,4 @@ df = pd.DataFrame(data)
 print(df.head())
 
 df.to_csv("real_estate.csv", index=False, encoding="utf-8-sig")
-print("✅ CSV 저장 완료: real_estate.csv")
+print("✅ CSV 저장 완료: real_estate_.csv")
